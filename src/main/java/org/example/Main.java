@@ -13,6 +13,7 @@ public class Main {
 
             System.out.println("i = " + i);
             System.out.println("Hello");
+            System.out.println("Dodanie czego nowego");
         }
     }
 }
